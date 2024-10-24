@@ -1,0 +1,84 @@
+Uri: https://fonts.googleapis.com/css?family=Poppins:300,400,500,700
+File Name: C:\Downloaded Web Sites\use.unitru.edu.pe\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\use.unitru.edu.pe\s\poppins\v21\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\use.unitru.edu.pe\s\poppins\v21\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\use.unitru.edu.pe\s\poppins\v21\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\use.unitru.edu.pe\s\poppins\v21\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://use.unitru.edu.pe/lib/javascript.php/1712331739/lib/babel-polyfill/polyfill.min.js
+File Name: C:\Downloaded Web Sites\use.unitru.edu.pe\lib\javascript.php\1712331739\lib\babel-polyfill\javascript.php
+Content Type: application/javascript
+
+Uri: https://use.unitru.edu.pe/lib/javascript.php/1712331739/lib/javascript-static.js
+File Name: C:\Downloaded Web Sites\use.unitru.edu.pe\lib\javascript.php\1712331739\lib\javascript.php
+Content Type: application/javascript
+
+Uri: https://use.unitru.edu.pe/lib/javascript.php/1712331739/lib/polyfills/polyfill.js
+File Name: C:\Downloaded Web Sites\use.unitru.edu.pe\lib\javascript.php\1712331739\lib\polyfills\javascript.php
+Content Type: application/javascript
+
+Uri: https://use.unitru.edu.pe/lib/javascript.php/1712331739/lib/requirejs/require.min.js
+File Name: C:\Downloaded Web Sites\use.unitru.edu.pe\lib\javascript.php\1712331739\lib\requirejs\javascript.php
+Content Type: application/javascript
+
+Uri: https://use.unitru.edu.pe/login/forgot_password.php
+File Name: C:\Downloaded Web Sites\use.unitru.edu.pe\login\forgot_password.php.html
+Content Type: text/html
+
+Uri: https://use.unitru.edu.pe/login/index.php
+File Name: C:\Downloaded Web Sites\use.unitru.edu.pe\login\index.php.html
+Content Type: text/html
+
+Uri: https://use.unitru.edu.pe/pluginfile.php/1/theme_space/customloginlogo/1712331739/USE1.png
+File Name: C:\Downloaded Web Sites\use.unitru.edu.pe\pluginfile.php\1\theme_space\customloginlogo\1712331739\USE1.png
+Content Type: image/png
+
+Uri: https://use.unitru.edu.pe/pluginfile.php/1/theme_space/customlogosidebar/1712331739/unt5.png
+File Name: C:\Downloaded Web Sites\use.unitru.edu.pe\pluginfile.php\1\theme_space\customlogosidebar\1712331739\unt5.png
+Content Type: image/png
+
+Uri: https://use.unitru.edu.pe/pluginfile.php/1/theme_space/favicon/1712331739/favicon.ico
+File Name: C:\Downloaded Web Sites\use.unitru.edu.pe\pluginfile.php\1\theme_space\favicon\1712331739\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://use.unitru.edu.pe/pluginfile.php/1/theme_space/loginbg/1712331739/Publicación de Facebook 2800-3 optimizer.png
+File Name: C:\Downloaded Web Sites\use.unitru.edu.pe\pluginfile.php\1\theme_space\loginbg\1712331739\Publicación de Facebook 2800-3 optimizer.png
+Content Type: image/png
+
+Uri: https://use.unitru.edu.pe/theme/jquery.php/core/jquery-3.4.1.min.js
+File Name: C:\Downloaded Web Sites\use.unitru.edu.pe\theme\jquery.php\core\jquery-3.4.1.min.js
+Content Type: application/javascript
+
+Uri: https://use.unitru.edu.pe/theme/space/addons/bootstrapnavbar/bootstrap-4-navbar.min.js
+File Name: C:\Downloaded Web Sites\use.unitru.edu.pe\theme\space\addons\bootstrapnavbar\bootstrap-4-navbar.min.js
+Content Type: application/javascript
+
+Uri: https://use.unitru.edu.pe/theme/space/addons/overlayscrollbars/OverlayScrollbars.min.js
+File Name: C:\Downloaded Web Sites\use.unitru.edu.pe\theme\space\addons\overlayscrollbars\OverlayScrollbars.min.js
+Content Type: application/javascript
+
+Uri: https://use.unitru.edu.pe/theme/styles.php/space/1712331739_1/all
+File Name: C:\Downloaded Web Sites\use.unitru.edu.pe\theme\styles.php\space\1712331739_1\styles.php
+Content Type: text/css
+
+Uri: https://use.unitru.edu.pe/theme/yui_combo.php?rollup/3.17.2/yui-moodlesimple-min.css
+File Name: C:\Downloaded Web Sites\use.unitru.edu.pe\theme\combo
+Content Type: text/css
+
+Uri: https://use.unitru.edu.pe/theme/yui_combo.php?rollup/3.17.2/yui-moodlesimple-min.js
+File Name: C:\Downloaded Web Sites\use.unitru.edu.pe\theme\combo-1
+Content Type: application/javascript
+

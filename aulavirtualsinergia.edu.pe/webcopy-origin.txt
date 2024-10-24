@@ -1,0 +1,100 @@
+Uri: https://aulavirtualsinergia.edu.pe/archivos/video.mp4
+File Name: C:\Users\Lenovo\OneDrive\Escritorio\INDICADORES DE GESTIÓN\aulavirtualsinergia.edu.pe\archivos\video.mp4
+Content Type: video/mp4
+
+Uri: https://aulavirtualsinergia.edu.pe/lib/javascript.php/1722480732/lib/javascript-static.js
+File Name: C:\Users\Lenovo\OneDrive\Escritorio\INDICADORES DE GESTIÓN\aulavirtualsinergia.edu.pe\lib\javascript.php\1722480732\lib\javascript.php
+Content Type: application/javascript
+
+Uri: https://aulavirtualsinergia.edu.pe/lib/javascript.php/1722480732/lib/polyfills/polyfill.js
+File Name: C:\Users\Lenovo\OneDrive\Escritorio\INDICADORES DE GESTIÓN\aulavirtualsinergia.edu.pe\lib\javascript.php\1722480732\lib\polyfills\javascript.php
+Content Type: application/javascript
+
+Uri: https://aulavirtualsinergia.edu.pe/lib/javascript.php/1722480732/lib/requirejs/require.min.js
+File Name: C:\Users\Lenovo\OneDrive\Escritorio\INDICADORES DE GESTIÓN\aulavirtualsinergia.edu.pe\lib\javascript.php\1722480732\lib\requirejs\javascript.php
+Content Type: application/javascript
+
+Uri: https://aulavirtualsinergia.edu.pe/lib/javascript.php/1722480732/theme/mb2nl/assets/js.cookie.js
+File Name: C:\Users\Lenovo\OneDrive\Escritorio\INDICADORES DE GESTIÓN\aulavirtualsinergia.edu.pe\lib\javascript.php\1722480732\theme\mb2nl\assets\javascript.php
+Content Type: application/javascript
+
+Uri: https://aulavirtualsinergia.edu.pe/lib/javascript.php/1722480732/theme/mb2nl/assets/superfish/superfish.custom.js
+File Name: C:\Users\Lenovo\OneDrive\Escritorio\INDICADORES DE GESTIÓN\aulavirtualsinergia.edu.pe\lib\javascript.php\1722480732\theme\mb2nl\assets\superfish\javascript.php
+Content Type: application/javascript
+
+Uri: https://aulavirtualsinergia.edu.pe/lib/javascript.php/1722480732/theme/mb2nl/javascript/theme.js
+File Name: C:\Users\Lenovo\OneDrive\Escritorio\INDICADORES DE GESTIÓN\aulavirtualsinergia.edu.pe\lib\javascript.php\1722480732\theme\mb2nl\javascript\javascript.php
+Content Type: application/javascript
+
+Uri: https://aulavirtualsinergia.edu.pe/login/forgot_password.php
+File Name: C:\Users\Lenovo\OneDrive\Escritorio\INDICADORES DE GESTIÓN\aulavirtualsinergia.edu.pe\login\forgot_password.php.html
+Content Type: text/html
+
+Uri: https://aulavirtualsinergia.edu.pe/login/index.php
+File Name: C:\Users\Lenovo\OneDrive\Escritorio\INDICADORES DE GESTIÓN\aulavirtualsinergia.edu.pe\login\index.php.html
+Content Type: text/html
+
+Uri: https://aulavirtualsinergia.edu.pe/pluginfile.php/1/theme_mb2nl/favicon/1722480732/favicon %283%29.ico
+File Name: C:\Users\Lenovo\OneDrive\Escritorio\INDICADORES DE GESTIÓN\aulavirtualsinergia.edu.pe\pluginfile.php\1\theme_mb2nl\favicon\1722480732\favicon (3).ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://aulavirtualsinergia.edu.pe/pluginfile.php/1/theme_mb2nl/loginbgimage/1722480732/login-bg %281%29.jpg
+File Name: C:\Users\Lenovo\OneDrive\Escritorio\INDICADORES DE GESTIÓN\aulavirtualsinergia.edu.pe\pluginfile.php\1\theme_mb2nl\loginbgimage\1722480732\login-bg (1).jpg
+Content Type: image/jpeg
+
+Uri: https://aulavirtualsinergia.edu.pe/pluginfile.php/1/theme_mb2nl/loginlogo/1722480732/logo_sinergia1.png
+File Name: C:\Users\Lenovo\OneDrive\Escritorio\INDICADORES DE GESTIÓN\aulavirtualsinergia.edu.pe\pluginfile.php\1\theme_mb2nl\loginlogo\1722480732\logo_sinergia1.png
+Content Type: image/png
+
+Uri: https://aulavirtualsinergia.edu.pe/pluginfile.php/1/theme_mb2nl/logo/1722480732/logo_sinergia1.png
+File Name: C:\Users\Lenovo\OneDrive\Escritorio\INDICADORES DE GESTIÓN\aulavirtualsinergia.edu.pe\pluginfile.php\1\theme_mb2nl\logo\1722480732\logo_sinergia1.png
+Content Type: image/png
+
+Uri: https://aulavirtualsinergia.edu.pe/pluginfile.php/1/theme_mb2nl/logodark/1722480732/logo_sinergia1.png
+File Name: C:\Users\Lenovo\OneDrive\Escritorio\INDICADORES DE GESTIÓN\aulavirtualsinergia.edu.pe\pluginfile.php\1\theme_mb2nl\logodark\1722480732\logo_sinergia1.png
+Content Type: image/png
+
+Uri: https://aulavirtualsinergia.edu.pe/pluginfile.php/1/theme_mb2nl/logodarksm/1722480732/logo_sinergia1.png
+File Name: C:\Users\Lenovo\OneDrive\Escritorio\INDICADORES DE GESTIÓN\aulavirtualsinergia.edu.pe\pluginfile.php\1\theme_mb2nl\logodarksm\1722480732\logo_sinergia1.png
+Content Type: image/png
+
+Uri: https://aulavirtualsinergia.edu.pe/pluginfile.php/1/theme_mb2nl/logosm/1722480732/logo_sinergia1.png
+File Name: C:\Users\Lenovo\OneDrive\Escritorio\INDICADORES DE GESTIÓN\aulavirtualsinergia.edu.pe\pluginfile.php\1\theme_mb2nl\logosm\1722480732\logo_sinergia1.png
+Content Type: image/png
+
+Uri: https://aulavirtualsinergia.edu.pe/theme/jquery.php/core/jquery-3.6.1.min.js
+File Name: C:\Users\Lenovo\OneDrive\Escritorio\INDICADORES DE GESTIÓN\aulavirtualsinergia.edu.pe\theme\jquery.php\core\jquery-3.6.1.min.js
+Content Type: application/javascript
+
+Uri: https://aulavirtualsinergia.edu.pe/theme/styles.php/mb2nl/1722480732_1/all
+File Name: C:\Users\Lenovo\OneDrive\Escritorio\INDICADORES DE GESTIÓN\aulavirtualsinergia.edu.pe\theme\styles.php\mb2nl\1722480732_1\styles.php
+Content Type: text/css
+
+Uri: https://aulavirtualsinergia.edu.pe/theme/yui_combo.php?rollup/3.17.2/yui-moodlesimple-min.css
+File Name: C:\Users\Lenovo\OneDrive\Escritorio\INDICADORES DE GESTIÓN\aulavirtualsinergia.edu.pe\theme\combo
+Content Type: text/css
+
+Uri: https://aulavirtualsinergia.edu.pe/theme/yui_combo.php?rollup/3.17.2/yui-moodlesimple-min.js
+File Name: C:\Users\Lenovo\OneDrive\Escritorio\INDICADORES DE GESTIÓN\aulavirtualsinergia.edu.pe\theme\combo-1
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:300,400,500,700
+File Name: C:\Users\Lenovo\OneDrive\Escritorio\INDICADORES DE GESTIÓN\aulavirtualsinergia.edu.pe\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Users\Lenovo\OneDrive\Escritorio\INDICADORES DE GESTIÓN\aulavirtualsinergia.edu.pe\s\roboto\v32\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Users\Lenovo\OneDrive\Escritorio\INDICADORES DE GESTIÓN\aulavirtualsinergia.edu.pe\s\roboto\v32\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Users\Lenovo\OneDrive\Escritorio\INDICADORES DE GESTIÓN\aulavirtualsinergia.edu.pe\s\roboto\v32\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Users\Lenovo\OneDrive\Escritorio\INDICADORES DE GESTIÓN\aulavirtualsinergia.edu.pe\s\roboto\v32\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
